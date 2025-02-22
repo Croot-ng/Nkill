@@ -11,8 +11,11 @@ Ping Of Death saldırılarında kullanmayınız.
 ***Önce python kurulumu yapılmalıdır***
 
 cd Nkill
+
 pip install -r requirements.txt
+
 cd src 
+
 sudo python gui.py //sudo python terminal.py
 
 Alias ataması yapılarak çalıştırılması önerilir.
