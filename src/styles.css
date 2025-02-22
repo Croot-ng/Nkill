@@ -1,0 +1,35 @@
+QWidget {
+    background-color: black;
+    color: #00ff00;
+    font-family: "Courier New", monospace;
+    font-size: 14px;
+}
+
+QPushButton {
+    background-color: #00aa00;
+    color: black;
+    border-radius: 5px;
+    padding: 5px;
+    font-weight: bold;
+}
+
+QPushButton:hover {
+    background-color: #00ff00;
+}
+
+QLineEdit, QSpinBox, QTextEdit {
+    background-color: black;
+    color: #00ff00;
+    border: 1px solid #00ff00;
+}
+
+QSlider::groove:horizontal {
+    background: #00ff00;
+    height: 5px;
+}
+
+QSlider::handle:horizontal {
+    background: #00aa00;
+    width: 15px;
+    border-radius: 5px;
+}
