@@ -8,16 +8,16 @@ Ping Of Death saldırılarında kullanmayınız.
 
 ## Kurulum && Çalıştırma
 
-'''cd Nkill'''
-'''pip install -r requirements.txt'''
-'''cd src '''
-'''sudo python gui.py //sudo python terminal.py '''
+```cd Nkill
+pip install -r requirements.txt
+cd src 
+sudo python gui.py //sudo python terminal.py ```
 
 Alias ataması yapılarak çalıştırılması önerilir.
 
 ## Bilgilendirme
 
-Windows ve Mac için yönetici Linux ve Android(Termux) için Root yetkisi alınarak çalıştırılmalıdır.
+Windows yönetici Mac, Linux ve Android(Termux) için Root yetkisi alınarak çalıştırılmalıdır.
 Thread(İş parçacığı) sayısı saniyede yollanacak paket sayısını, Paket boyutu ise yollanan her paketin kaç Byte olacağını gösterir.
 Hedef IP adresine ne girerseniz girin saldırıdan tüm yerel ağ etkilenecektir.
 
