@@ -14,7 +14,7 @@ Ping Of Death saldırılarında kullanmayınız.
 cd Nkill
 pip install -r requirements.txt
 cd src
-sudo python gui.py  <!-- veya -->
+sudo python gui.py  #veya
 sudo python terminal.py
 </code></pre>
 
