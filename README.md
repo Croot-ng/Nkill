@@ -1,4 +1,4 @@
-![resim](https://github.com/user-attachments/assets/cbdec5c5-207e-409e-aa37-a14121e79186)## Yasal uyarı
+## Yasal uyarı
 
 Herhangibir illegal kullanımda tüm sorumluluk kullanıcıya aittir.
 Yerel ağa pentest (yük ve trafik testi) yapmak için yazılmıştır.
